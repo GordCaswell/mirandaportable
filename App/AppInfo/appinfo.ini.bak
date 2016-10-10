@@ -1,0 +1,28 @@
+[Format]
+Type=PortableApps.comFormat
+Version=3.0
+
+[Details]
+Name=Miranda IM Portable
+AppID=MirandaPortable
+Publisher=Miranda IM Team & PortableApps.com
+Homepage=PortableApps.com/apps/internet/miranda_portable
+Donate=www.Miranda-IM.org/donate/
+Category=Internet
+Description=Instant messaging
+Language=Multilingual
+InstallType=Multilingual
+
+[License]
+Shareable=true
+OpenSource=true
+Freeware=true
+CommercialUse=true
+
+[Version]
+PackageVersion=0.10.48.0
+DisplayVersion=0.10.48
+
+[Control]
+Icons=1
+Start=MirandaPortable.exe
